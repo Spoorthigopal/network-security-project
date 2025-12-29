@@ -17,15 +17,7 @@ This project focuses on improving security at the relay node, which is often con
 
 ---
 
-## 🔐 Key Concepts Used
-- Two-Way Relay Networks (TWRN)
-- Network Coding
-- Cryptography (Encryption & Decryption)
-- Secure Data Transmission
-- Relay-based Communication
-- GUI-based Simulation
 
----
 
 ## 🛠️ Technologies Used
 - **Programming Language:** Python  
