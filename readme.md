@@ -1,4 +1,61 @@
-Introduction
+# Enhanced Security Network Coding System for Two-Way Relay Networks
+
+## 📌 Project Overview
+The **Enhanced Security Network Coding System** is a Python-based project that demonstrates secure data exchange in a **Two-Way Relay Network (TWRN)**.  
+In this system, two users communicate with each other through a relay node while ensuring **data confidentiality, integrity, and efficiency** using **network coding and cryptographic techniques**.
+
+This project focuses on improving security at the relay node, which is often considered vulnerable in wireless and cooperative communication systems.
+
+---
+
+## 🎯 Objectives
+- To implement secure communication in a Two-Way Relay Network
+- To apply **network coding** for efficient data transmission
+- To enhance security using **encryption techniques**
+- To simulate relay-based communication using a **GUI application**
+- To provide a beginner-friendly demonstration of network security concepts
+
+---
+
+## 🔐 Key Concepts Used
+- Two-Way Relay Networks (TWRN)
+- Network Coding
+- Cryptography (Encryption & Decryption)
+- Secure Data Transmission
+- Relay-based Communication
+- GUI-based Simulation
+
+---
+
+## 🛠️ Technologies Used
+- **Programming Language:** Python  
+- **GUI Framework:** Tkinter  
+- **Security:** Cryptographic algorithms (RSA / Symmetric Encryption)  
+- **IDE:** VS Code / PyCharm  
+- **Operating System:** Windows / Linux  
+
+---
+
+## ⚙️ System Architecture
+1. **User A** sends encrypted data to the relay  
+2. **User B** sends encrypted data to the relay  
+3. The **relay node performs network coding** without accessing plaintext  
+4. Encoded data is securely transmitted back  
+5. Users decode and decrypt the received message  
+
+This approach reduces transmission overhead while maintaining strong security.
+
+---
+
+## 🚀 Features
+- Secure message exchange using encryption
+- Efficient communication using network coding
+- Relay node cannot read original messages
+- User-friendly GUI for easy interaction
+- Modular and easy-to-understand code structure
+
+
+
 
 In modern wireless communication systems, secure and efficient data transmission is very important. Two-Way Relay Networks (TWRN) are widely used communication models where two users exchange information with each other through an intermediate relay node. This method improves network coverage and reduces transmission cost, but it also introduces security challenges because the data passes through a shared relay. If proper security measures are not applied, unauthorized users may intercept or manipulate the transmitted information.
 
