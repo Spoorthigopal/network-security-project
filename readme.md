@@ -16,7 +16,13 @@ This project focuses on improving security at the relay node, which is often con
 - To provide a beginner-friendly demonstration of network security concepts
 
 ---
-
+## 🔐 Key Concepts Used
+- Two-Way Relay Networks (TWRN)
+- Network Coding
+- Cryptography (Encryption & Decryption)
+- Secure Data Transmission
+- Relay-based Communication
+- GUI-based Simulation
 
 
 ## 🛠️ Technologies Used
@@ -27,6 +33,7 @@ This project focuses on improving security at the relay node, which is often con
 - **Operating System:** Windows / Linux  
 
 ---
+
 
 ## ⚙️ System Architecture
 1. **User A** sends encrypted data to the relay  
